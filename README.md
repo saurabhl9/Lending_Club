@@ -7,7 +7,6 @@ This project simulates a real-world data engineering pipeline using Apache Spark
 
 ---
 
-<details>
 <summary>📁 Project Structure</summary>
 
 ```bash
@@ -33,9 +32,6 @@ LENDING CLUB/
 │
 ├── requirements.txt
 └── README.md
-
-</details>
-
 
 
 ---
