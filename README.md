@@ -6,9 +6,9 @@
 This project simulates a real-world data engineering pipeline using Apache Spark (PySpark). The goal is to clean, transform, and prepare lending data for downstream analytics teams. It reflects practical experience working with large-scale datasets, Spark transformations, and performance-optimized ETL workflows.
 
 ---
-<details>
+
 <summary>📁 Project Structure</summary>
-```
+```bash
 LENDING CLUB/
 ├── Cleaning/
 │ ├── LendingClub_DataCleaning_S1.ipynb
@@ -32,7 +32,7 @@ LENDING CLUB/
 ├── requirements.txt
 └── README.md
 ```
-</details>
+
 
 
 ---
