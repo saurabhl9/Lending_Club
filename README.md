@@ -8,29 +8,32 @@ This project simulates a real-world data engineering pipeline using Apache Spark
 <details>
 <summary>📁 Project Structure</summary>
 
+
 LENDING CLUB/
 ├── Cleaning/
-│   ├── LendingClub_DataCleaning_S1.ipynb
-│   ├── LendingClub_DataCleaning_S2.ipynb
-│   ├── LendingClub_DataCleaning_S3.ipynb
-│   ├── LendingClub_DataCleaning_S4.ipynb
-│   └── LendingClub_Intro.ipynb
+│ ├── LendingClub_DataCleaning_S1.ipynb
+│ ├── LendingClub_DataCleaning_S2.ipynb
+│ ├── LendingClub_DataCleaning_S3.ipynb
+│ ├── LendingClub_DataCleaning_S4.ipynb
+│ └── LendingClub_Intro.ipynb
 │
 ├── Transformation/
-│   ├── LendingClub_Transformation_part1.ipynb
-│   ├── LendingClub_Transformation_part2.ipynb
-│   ├── LendingClub_Transformation_part3.ipynb
-│   ├── LendingClub_Transformation_part4.ipynb
-│   └── LendingClub_Transformation_part5.ipynb
+│ ├── LendingClub_Transformation_part1.ipynb
+│ ├── LendingClub_Transformation_part2.ipynb
+│ ├── LendingClub_Transformation_part3.ipynb
+│ ├── LendingClub_Transformation_part4.ipynb
+│ └── LendingClub_Transformation_part5.ipynb
 │
 ├── tests/
-│   ├── conftest.py
-│   ├── DataManipulation.py
-│   └── test_pipeline.py
+│ ├── conftest.py
+│ ├── DataManipulation.py
+│ └── test_pipeline.py
 │
 ├── requirements.txt
 └── README.md
+
 </details>
+
 
 🚀 Project Overview
 
