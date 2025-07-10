@@ -32,9 +32,7 @@ LENDING CLUB/
 │
 ├── requirements.txt
 └── README.md
-
-
----
+```
 
 ## 🚀 Project Overview
 
