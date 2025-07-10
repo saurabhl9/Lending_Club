@@ -8,8 +8,7 @@ This project simulates a real-world data engineering pipeline using Apache Spark
 ---
 <details>
 <summary>📁 Project Structure</summary>
-
-
+```
 LENDING CLUB/
 ├── Cleaning/
 │ ├── LendingClub_DataCleaning_S1.ipynb
@@ -32,7 +31,7 @@ LENDING CLUB/
 │
 ├── requirements.txt
 └── README.md
-
+```
 </details>
 
 
