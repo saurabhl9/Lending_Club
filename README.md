@@ -34,8 +34,8 @@ LENDING CLUB/
 ├── requirements.txt
 └── README.md
 
-</details> ```
-
+</details>
+```
 
 
 ---
